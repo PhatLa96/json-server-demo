@@ -1,0 +1,253 @@
+{
+    "categories": [
+        {
+            "id": "d70d9574-c9d2-485b-881f-8f87844d842d",
+            "name": "Beauty",
+            "createdAt": 1637633421349,
+            "updateAt": 1637633421349
+        },
+        {
+            "id": "1f9c104b-80d3-41a1-b18f-cb90a8cb70b7",
+            "name": "Grocery",
+            "createdAt": 1637633421349,
+            "updateAt": 1637633421349
+        },
+        {
+            "id": "2b83f319-d116-474c-9e1e-1422509e88a5",
+            "name": "Movies",
+            "createdAt": 1637633421349,
+            "updateAt": 1637633421349
+        },
+        {
+            "id": "e388285d-63df-4e58-93b4-e834bcde48c6",
+            "name": "Jewelery",
+            "createdAt": 1637633421349,
+            "updateAt": 1637633421349
+        }
+    ],
+    "products": [
+        {
+            "categoryId": "d70d9574-c9d2-485b-881f-8f87844d842d",
+            "id": "5b06cb45-96d9-4b16-8af9-892af0c866f6",
+            "name": "Awesome Metal Ball",
+            "color": "tan",
+            "price": 632,
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "createdAt": 1637633421349,
+            "updatedAt": 1637633421349,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "d70d9574-c9d2-485b-881f-8f87844d842d",
+            "id": "eb9390b0-3eb6-4810-9bfa-2c0c1e99e5c0",
+            "name": "Incredible Cotton Tuna",
+            "color": "mint green",
+            "price": 141,
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "createdAt": 1637633421349,
+            "updatedAt": 1637633421349,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "d70d9574-c9d2-485b-881f-8f87844d842d",
+            "id": "2b4e5472-83a7-4112-a781-4e7041965790",
+            "name": "Gorgeous Concrete Salad",
+            "color": "ivory",
+            "price": 230,
+            "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+            "createdAt": 1637633421349,
+            "updatedAt": 1637633421349,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "d70d9574-c9d2-485b-881f-8f87844d842d",
+            "id": "3144d3ed-9c10-4adc-99db-67a218030fca",
+            "name": "Gorgeous Steel Mouse",
+            "color": "green",
+            "price": 935,
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "createdAt": 1637633421349,
+            "updatedAt": 1637633421349,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "d70d9574-c9d2-485b-881f-8f87844d842d",
+            "id": "e98056fa-d799-4937-a0db-0b2b3494ee43",
+            "name": "Intelligent Steel Chicken",
+            "color": "green",
+            "price": 702,
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "1f9c104b-80d3-41a1-b18f-cb90a8cb70b7",
+            "id": "3e861925-f888-436b-a851-4c0dc33aa28d",
+            "name": "Refined Wooden Pants",
+            "color": "grey",
+            "price": 523,
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "1f9c104b-80d3-41a1-b18f-cb90a8cb70b7",
+            "id": "e868ad98-7321-436b-b9fd-73abcec7db6f",
+            "name": "Ergonomic Wooden Computer",
+            "color": "black",
+            "price": 70,
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "1f9c104b-80d3-41a1-b18f-cb90a8cb70b7",
+            "id": "21b60689-99b4-4261-84ae-49c6509574b1",
+            "name": "Ergonomic Frozen Tuna",
+            "color": "salmon",
+            "price": 656,
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "1f9c104b-80d3-41a1-b18f-cb90a8cb70b7",
+            "id": "76edfb0f-69c5-4a4e-b7c4-597f060d7f67",
+            "name": "Fantastic Rubber Chicken",
+            "color": "olive",
+            "price": 580,
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "1f9c104b-80d3-41a1-b18f-cb90a8cb70b7",
+            "id": "9c2b7975-c50c-4780-b167-25d5fb8a817f",
+            "name": "Small Plastic Table",
+            "color": "maroon",
+            "price": 755,
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "2b83f319-d116-474c-9e1e-1422509e88a5",
+            "id": "677fa27a-b415-4ddf-9a39-e3caa2b198c2",
+            "name": "Unbranded Concrete Chair",
+            "color": "teal",
+            "price": 656,
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "2b83f319-d116-474c-9e1e-1422509e88a5",
+            "id": "c6a8ef58-612d-4a61-b13a-ec0c366904a6",
+            "name": "Generic Granite Table",
+            "color": "silver",
+            "price": 482,
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "2b83f319-d116-474c-9e1e-1422509e88a5",
+            "id": "af4dfc0a-9a17-482e-beee-6fdbdcbe10e1",
+            "name": "Fantastic Metal Mouse",
+            "color": "white",
+            "price": 328,
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "2b83f319-d116-474c-9e1e-1422509e88a5",
+            "id": "164cf4cd-d60b-4fc9-be84-7e3355945b58",
+            "name": "Rustic Soft Pants",
+            "color": "blue",
+            "price": 905,
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "2b83f319-d116-474c-9e1e-1422509e88a5",
+            "id": "7db4d331-3cc6-417a-a71c-64d5ab714c63",
+            "name": "Intelligent Concrete Pants",
+            "color": "silver",
+            "price": 246,
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "e388285d-63df-4e58-93b4-e834bcde48c6",
+            "id": "a867adf0-23df-41f5-8df4-7cc0a0cb76ac",
+            "name": "Unbranded Concrete Soap",
+            "color": "lime",
+            "price": 434,
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "e388285d-63df-4e58-93b4-e834bcde48c6",
+            "id": "1872445f-6681-4854-bd00-8a65194a6bad",
+            "name": "Sleek Wooden Salad",
+            "color": "silver",
+            "price": 42,
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "e388285d-63df-4e58-93b4-e834bcde48c6",
+            "id": "f02406d9-5bd3-4f09-bd40-04a0aeabcf13",
+            "name": "Incredible Metal Pants",
+            "color": "violet",
+            "price": 627,
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "e388285d-63df-4e58-93b4-e834bcde48c6",
+            "id": "bc3288b1-4f67-424b-be0e-6691d1219723",
+            "name": "Licensed Fresh Chips",
+            "color": "blue",
+            "price": 572,
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        },
+        {
+            "categoryId": "e388285d-63df-4e58-93b4-e834bcde48c6",
+            "id": "0ac48a82-5e50-4084-ba66-bcca87e10ee8",
+            "name": "Intelligent Rubber Chips",
+            "color": "pink",
+            "price": 736,
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "createdAt": 1637633421350,
+            "updatedAt": 1637633421350,
+            "thumbnailUrl": "http://placeimg.com/400/400"
+        }
+    ],
+    "profile": {
+        "name": "PO"
+    }
+}
